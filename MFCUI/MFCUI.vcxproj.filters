@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCUIDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BCMenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mySplash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CNGDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CNOCameraDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CNOUniqueCDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CNOOPENCDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWelcomeDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCUI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCUIDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BCMenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mySplash.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CNGDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CNOCameraDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CNOUniqueCDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CNOOPENCDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CWelcomeDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCUI.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCUI.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCUI.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\excel.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\camera.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\database.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\image.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\txt.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\Qr.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\atom.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\qr_code.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\close.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\logo.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\logo64.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\logo48.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\barcode.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\luck.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\camera3.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="E:\Images\icon\Delete.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
